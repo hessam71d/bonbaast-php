@@ -1,7 +1,7 @@
 name: main
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/9 * * * *'
   
   workflow_dispatch:
 
